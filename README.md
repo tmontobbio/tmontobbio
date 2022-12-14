@@ -24,3 +24,4 @@ Currently I'm learning Redux, and trying to impliment it into a personal project
 
 <a href="https://www.linkedin.com/in/tmontobbio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px; height:auto;"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:tylermontobbio@gmail.com?subject=subject text" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="width: 50px; height:auto;"/>
   
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/tmontobbio)&left_color=green&right_color=red)
