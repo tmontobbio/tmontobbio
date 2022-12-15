@@ -8,10 +8,10 @@ Currently I'm learning Redux, and trying to impliment it into a personal project
 
 ### Projects
 ---
-<strong>Movie Hunter</strong> - <a href="https://moviehunter.tmontobbio.dev/" target="_blank">Link</a> | <a href="https://github.com/tmontobbio/movie-hunter" target="_blank"/>Repo</a>
+<strong>Movie Hunter</strong> - <a href="https://moviehunter.tmontobbio.dev/" target="_blank">tmontobbio.dev</a> | <a href="https://github.com/tmontobbio/movie-hunter" target="_blank"/>Repo</a>
 </br>I am a obsessor of film, I watch hundreds of movies a year, I designed this app to keep track of my favorites, and also share those favorites with others.  Users can sign up for an account and create their own list, you can click on users in the user-list and follow them to remember their favorites too!  Go sign up and have fun!
 
-<strong>Dog IM</strong> - <a href="https://dogim.tmontobbio.dev/" target="_blank">Link</a> | <a href="https://github.com/tmontobbio/dogim" target="_blank"/>Repo</a>
+<strong>Dog IM</strong> - <a href="https://dogim.tmontobbio.dev/" target="_blank">tmontobbio.dev</a> | <a href="https://github.com/tmontobbio/dogim" target="_blank"/>Repo</a>
 </br>Dogs are an important part of my life, I chose to theme this app with dogs in mind.  Just a playful chat app where users can create and account, create groups and message others about relevant topics!
 
 ### Skills  
