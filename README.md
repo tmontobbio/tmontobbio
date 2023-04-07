@@ -9,7 +9,7 @@ Currently I'm learning Redux, and trying to impliment it into a personal project
 ### Projects
 ---
 
-<strong>jcristmanart</strong> - <a href="https://julian-cristman-art.onrender.com" target="_blank">temporary domain</a> | <a href="https://github.com/tmontobbio/julian-cristman-art" target="_blank"/>Repo</a>
+<strong>jcristmanart</strong> - <a href="https://julianc.tmontobbio.dev" target="_blank">temporary domain</a> | <a href="https://github.com/tmontobbio/julian-cristman-art" target="_blank"/>Repo</a>
 </br>This site is currently in production, it is to serve as an art portfolio foir my old friend.  Julian is an incredible artist and he needed a website to get himself out there.  This site is utilizing imgur's API to allow Julian to easily upload his art so it will auto-populate the gallery.  Future plans include, threadless API to act as a store so customers can order any design on a shirt, and  an admin portal so that Julian may log in and change descriptions and his bio.
 
 <strong>tmontobbio.dev</strong> - <a href="https://tmontobbio.dev/" target="_blank">tmontobbio.dev</a> | <a href="https://github.com/tmontobbio/tmontobbio-dev" target="_blank"/>Repo</a>
