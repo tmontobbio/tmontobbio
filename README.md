@@ -2,7 +2,7 @@
 
 ---
 
-For 15 years I've spent time learning trades and taken various career paths.  As soon as I started learning JavaScript I was inspired.  What a challenge it was at first, and as soon as things started to click I couldn't stop!  The possibilities in this field are endless, overwhelming at times - but I posess a competetive spirit and love a good challenge.  Primarily I've spent my time learning JavaScript(ES6), React.js, Ruby, Rails, and dabbled with Sinatra and Node.js.  Primarily a Windows user, I also possess skills in OSX environments and Linux.
+For 15 years I've spent time learning trades and taken various career paths.  As soon as I started learning JavaScript I was inspired.  What a challenge it was at first, and as soon as things started to click I couldn't stop!  The possibilities in this field are endless, overwhelming at times - but I posess a competetive spirit and love a good challenge.  Primarily I've spent my time learning JavaScript(ES6), React.js, Ruby, Rails, and dabbled with Sinatra and Node.js.  Primarily a Windows user, I also possess skills in MacOS environments and Linux.
 
 Currently I'm learning Redux, and trying to impliment it into a personal project.  I hope to learn as much as I can about React hooks and all the magic they can do for my projects.  If you have any tips, pointers, advice, or you just want to talk about cars and dogs I'm always available via my email and LinkedIn links!  Thanks for stopping by!
 
